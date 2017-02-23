@@ -29,6 +29,7 @@ namespace ConsoleApplication27
         public void v2()
         {
             Console.WriteLine("b::v2");
+
             v1();
 
         }
